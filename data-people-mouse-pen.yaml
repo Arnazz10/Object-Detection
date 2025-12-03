@@ -1,0 +1,33 @@
+path: ./datasets/people-mouse-pen  # root of your dataset
+
+train: images/train  # relative to 'path'
+val: images/val      # relative to 'path'
+
+names:
+  0: person
+  1: mouse
+  2: pen
+
+# NOTES:
+# - Expected directory structure (YOLO format):
+#   datasets/people-mouse-pen/
+#     images/
+#       train/
+#         img_001.jpg
+#         ...
+#       val/
+#         img_101.jpg
+#         ...
+#     labels/
+#       train/
+#         img_001.txt
+#         ...
+#       val/
+#         img_101.txt
+#         ...
+#
+# - Each .txt file contains one line per object:
+#     <class_id> <x_center> <y_center> <width> <height>
+#   where all coordinates are normalized between 0 and 1.
+
+

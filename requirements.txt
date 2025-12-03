@@ -1,0 +1,12 @@
+ultralytics>=8.2.0
+opencv-python>=4.10.0
+matplotlib>=3.8.0
+pyyaml>=6.0.0
+
+# NOTE:
+# - Install PyTorch separately following the official instructions for your GPU/CPU:
+#   https://pytorch.org/get-started/locally/
+# - After installing PyTorch, run:
+#   pip install -r requirements.txt
+
+
