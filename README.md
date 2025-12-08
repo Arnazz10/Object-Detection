@@ -10,7 +10,7 @@ You provide a small custom dataset, and this repo gives you ready-to-run **train
 
 ---
 
-### 1. Install dependencies
+### 1. Install dependencies :
 
 From the project root:
 
