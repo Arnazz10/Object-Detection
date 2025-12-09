@@ -1,6 +1,6 @@
 ## Simple Object Detection: Person / Mouse / pen :
 
-This project is a **minimal YOLO-based object detector** template that can detect and classify:
+This project is a **minimal YOLO-based object detector** template that can detect and classify 
 
 - **person**
 - **mouse**
