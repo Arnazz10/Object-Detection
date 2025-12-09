@@ -6,7 +6,7 @@ This project is a **minimal YOLO-based object detector** template that can detec
 - **mouse**
 - **pen**
 
-You provide a small custom dataset, and this repo gives you ready-to-run **training** and **inference** scripts.
+You provide a small custom dataset, and this repo gives you ready-to-run **training** and **inference** scripts
 
 ---
 
